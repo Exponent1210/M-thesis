@@ -1,0 +1,36 @@
+\contentsline {section}{\numberline {1}序論}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}研究の背景}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}研究の目的}{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}研究の構成}{5}{subsection.1.3}%
+\contentsline {section}{\numberline {2}ボーズアインシュタイン凝縮}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Bose-Einstein凝縮とは？}{6}{subsection.2.1}%
+\contentsline {paragraph}{Gross^^e2^^80^^93Pitaevskii方程式}{8}{equation.2.2}%
+\contentsline {subsection}{\numberline {2.2}研究の構成}{8}{subsection.2.2}%
+\contentsline {section}{\numberline {3}励起子}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}半導体}{9}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}半導体の光学応答}{9}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}励起子のエネルギー準位}{9}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}励起子の}{9}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}電子正孔系について}{10}{subsection.3.5}%
+\contentsline {section}{\numberline {4}亜酸化銅結晶}{11}{section.4}%
+\contentsline {subsection}{\numberline {4.1}結晶構造、バンド構造}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}謎}{11}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}黄色系列 1s 励起子の光学遷移}{12}{subsection.4.3}%
+\contentsline {paragraph}{直接遷移}{12}{AMS.4}%
+\contentsline {paragraph}{フォノンを介した発光}{13}{figure.caption.5}%
+\contentsline {subsection}{\numberline {4.4}歪印加の元での亜酸化銅結晶の性質}{14}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}励起子の波動関数}{22}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}励起子BECの先行研究}{23}{subsection.4.6}%
+\contentsline {subsection}{\numberline {4.7}亜酸化銅結晶の特徴}{25}{subsection.4.7}%
+\contentsline {paragraph}{太陽電池}{25}{subsection.4.7}%
+\contentsline {paragraph}{リュードベリ励起子}{25}{subsection.4.7}%
+\contentsline {paragraph}{薄膜}{25}{subsection.4.7}%
+\contentsline {section}{\numberline {5}実験機材の説明}{26}{section.5}%
+\contentsline {subsection}{\numberline {5.1}観測系の装置}{26}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}励起光の実験装置}{29}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}全体の実験装置の概略}{30}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}エネルギーシフトの計算方法}{30}{subsection.5.4}%
+\contentsline {section}{\numberline {6}まとめと展望}{31}{section.6}%
+\contentsline {section}{\numberline {7}まとめ}{32}{section.7}%
+\contentsline {section}{\numberline {8}謝辞}{34}{section.8}%
+\contentsline {section}{\numberline {A}冷却方法}{34}{appendix.A}%

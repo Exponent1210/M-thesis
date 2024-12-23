@@ -1,0 +1,35 @@
+\begin{align}
+D \propto & \int d^3k_0 \int d^3k_p \int d^3q_{LA} \exp\left( -\frac{E_0}{k_B T} \right) 
+\left[ \int d^3q_{12} \left( 1 + \frac{1}{\exp(\hbar \omega_{12}/k_B T) - 1} \right) \right] \\
+& \times \Bigg[ 
+\left( \delta(k_0 - k_p - q_{LA} - q_{12}) \delta(E_0 - E_p - \hbar \omega_{LA} - \hbar \omega_{12}) 
+\left( 1 + \frac{1}{\exp(\hbar \omega_{LA}/k_B T) - 1} \right) \right) \\
+& + \delta(k_0 - k_p + q_{LA} - q_{12}) \delta(E_0 - E_p + \hbar \omega_{LA} - \hbar \omega_{12}) 
+\frac{1}{\exp(\hbar \omega_{LA}/k_B T) - 1} \Bigg] \\
+& + \int d^3q_{25} \left( 1 + \frac{1}{\exp(\hbar \omega_{25}/k_B T) - 1} \right) \\
+& \times \Bigg[ 
+\delta(k_0 - k_p - q_{LA} - q_{25}) \delta(E_0 - E_p - \hbar \omega_{LA} - \hbar \omega_{25}) 
+\left( 1 + \frac{1}{\exp(\hbar \omega_{LA}/k_B T) - 1} \right) \\
+& + \delta(k_0 - k_p + q_{LA} - q_{25}) \delta(E_0 - E_p + \hbar \omega_{LA} - \hbar \omega_{25}) 
+\frac{1}{\exp(\hbar \omega_{LA}/k_B T) - 1} \Bigg] \\
+& \times \int d^3k_p \exp\left( -\frac{E_p}{k_B T} \right)
+\end{align}
+
+\begin{align}
+U \propto & \int d^3k_0 \int d^3k_p \int d^3q_{LA} \exp\left( -\frac{E_p}{k_B T} \right) \\
+& \times \left[ \int d^3q_{12} \left( \frac{1}{\exp(\hbar \omega_{12}/k_B T) - 1} \right) \right] \\
+& \times \Bigg[ 
+\delta(k_0 - k_p - q_{LA} + q_{12}) \delta(E_0 - E_p - \hbar \omega_{LA} + \hbar \omega_{12}) 
+\left( 1 + \frac{1}{\exp(\hbar \omega_{LA}/k_B T) - 1} \right) \\
+& + \delta(k_0 - k_p + q_{LA} + q_{12}) \delta(E_0 - E_p + \hbar \omega_{LA} + \hbar \omega_{12}) 
+\frac{1}{\exp(\hbar \omega_{LA}/k_B T) - 1} \Bigg] \\
+& + \int d^3q_{25} \left( \frac{1}{\exp(\hbar \omega_{25}/k_B T) - 1} \right) \\
+& \times \Bigg[ 
+\delta(k_0 - k_p - q_{LA} + q_{25}) \delta(E_0 - E_p - \hbar \omega_{LA} + \hbar \omega_{25}) 
+\left( 1 + \frac{1}{\exp(\hbar \omega_{LA}/k_B T) - 1} \right) \\
+& + \delta(k_0 - k_p + q_{LA} + q_{25}) \delta(E_0 - E_p + \hbar \omega_{LA} + \hbar \omega_{25}) 
+\frac{1}{\exp(\hbar \omega_{LA}/k_B T) - 1} \Bigg] \\
+& \times \int d^3k_p \exp\left( -\frac{E_p}{k_B T} \right)
+\end{align}
+
+

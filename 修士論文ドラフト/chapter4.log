@@ -1,0 +1,2325 @@
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.8.27)  22 DEC 2024 00:13
+ restricted system commands enabled.
+**"/Users/Ayane/Desktop/Cloud LaTeX へようこそ/chapter4.tex"
+("/Users/Ayane/Desktop/Cloud LaTeX へようこそ/chapter4.tex"
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+Lua module: luaotfload 2024-02-14 3.28 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended collection.
+luaotfload | conf : Root cache directory is "/Users/Ayane/Library/texlive/2024/texmf-var/luatex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-resolved path "/usr/local/texlive/2024/texmf-dist/tex/luatex/luaotfload/fontloader-2023-12-28.lua".
+Lua-only attribute luaotfload@noligature = 1
+luaotfload | init : Context OpenType loader version 3.134
+Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' in `hpack_filter'.
+Inserting `luaotfload.glyph_stream' in `glyph_stream_provider'.
+Inserting `luaotfload.define_font' in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 2
+luaotfload | conf : Root cache directory is "/Users/Ayane/Library/texlive/2024/texmf-var/luatex-cache/generic/names".
+Inserting `luaotfload.harf.strip_prefix' in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' in `find_truetype_file'.
+Removing  `luaotfload.glyph_stream' from `glyph_stream_provider'.
+Inserting `luaotfload.harf.glyphstream' in `glyph_stream_provider'.
+Inserting `luaotfload.harf.finalize_vlist' in `post_linebreak_filter'.
+Inserting `luaotfload.harf.finalize_hlist' in `hpack_filter'.
+Inserting `luaotfload.cleanup_files' in `wrapup_run'.
+Inserting `luaotfload.harf.finalize_unicode' in `finish_pdffile'.
+Inserting `luaotfload.glyphinfo' in `glyph_info'.
+Lua-only attribute luaotfload.letterspace_done = 3
+Inserting `luaotfload.aux.set_sscale_dimens' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
+Inserting `tracingstacklevels' in `input_level_string'.
+! Undefined control sequence.
+l.2 \section
+          {実験機材の説明}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \section{実
+              験機材の説明}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.3 \subsection
+             {観測系の装置}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.4 \subsection
+             *{亜酸化銅結晶試料}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7 結晶は大きさは5.3\,\text
+                                 {mm} \times 5.3\,\text{mm} \times 8.0\,\tex...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7 ...大きさは5.3\,\text{mm} \times 5.3\,\text
+                                                  {mm} \times 8.0\,\text{mm}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.7 ...t{mm} \times 5.3\,\text{mm} \times 8.0\,\text
+                                                  {mm}の寸法の直方体で...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--8
+[]実験機材の説明
+ []
+
+! Undefined control sequence.
+l.9 \subsection
+             *{希釈冷凍機}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \subsection*
+              {希釈冷凍機}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Environment figure undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \begin{figure}
+                 [htbp]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 9--11
+[]*希釈冷凍機
+ []
+
+! Undefined control sequence.
+l.12 \includegraphics
+                   [width=100mm, angle=270]{IMG_8626.jpeg}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.12 \includegraphics[width=100mm, angle=270]{IMG_
+                                                8626.jpeg}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 12.
+! Extra }, or forgotten $.
+l.12 ...phics[width=100mm, angle=270]{IMG_8626.jpeg}
+                                                  
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+! LaTeX Error: \caption outside float.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \caption
+           {無冷媒希釈冷凍機}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Command \end{center} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \end{center}
+               
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \end{center}
+               
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \end{center}
+               
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.14 \end{center}
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no 無 (U+7121) in font cmr10!
+Missing character: There is no 無 (U+7121) in font cmr10!
+Missing character: There is no 冷 (U+51B7) in font cmr10!
+Missing character: There is no 冷 (U+51B7) in font cmr10!
+Missing character: There is no 媒 (U+5A92) in font cmr10!
+Missing character: There is no 媒 (U+5A92) in font cmr10!
+Missing character: There is no 希 (U+5E0C) in font cmr10!
+Missing character: There is no 希 (U+5E0C) in font cmr10!
+Missing character: There is no 釈 (U+91C8) in font cmr10!
+Missing character: There is no 釈 (U+91C8) in font cmr10!
+Missing character: There is no 冷 (U+51B7) in font cmr10!
+Missing character: There is no 冷 (U+51B7) in font cmr10!
+Missing character: There is no 凍 (U+51CD) in font cmr10!
+Missing character: There is no 凍 (U+51CD) in font cmr10!
+Missing character: There is no 機 (U+6A5F) in font cmr10!
+! Missing } inserted.
+<inserted text> 
+}
+l.14 \end{center}
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+! LaTeX Error: \begin{document} ended by \end{figure}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \end{figure}
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (41.77043pt too wide) in paragraph at lines 12--28
+angle=270]IMG$[][]\OT1/cmr/m/n/10 626\OML/cmm/m/it/10 :jpeg[]$
+ []
+
+
+Overfull \hbox (8.97226pt too wide) in paragraph at lines 12--28
+希釈冷凍機とは$[][]$Heと$[][]$Heの混合液の相分離におけるエントロピー差を利用した冷却に実現している。
+ []
+
+! Undefined control sequence.
+l.29 \subsection
+              *{複屈折の観測}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 29--36
+[]*複屈折の観測
+ []
+
+
+Overfull \hbox (9.51738pt too wide) in paragraph at lines 29--36
+という値をもつ。$\OML/cmm/m/it/10 p[]$
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 37--37
+[] 
+ []
+
+luaotfload | db : Font names database loaded from /Users/Ayane/Library/texlive/2024/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz
+Overfull \hbox (45.58516pt too wide) detected at line 39
+\OML/cmm/m/it/10 p[] \OT1/cmr/m/n/10 = []
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 41--42
+[]という値を持つ。他の値については 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 43--43
+[] 
+ []
+
+
+! LaTeX Error: Environment aligned undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 \begin{aligned}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced alignment tab character &.
+l.46 F_0 &
+        : \text{加える力} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.46 F_0 &: \text
+               {加える力} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.47 R &
+      : \text{結晶を押す物質の曲率半径} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.47 R &: \text
+             {結晶を押す物質の曲率半径} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.48 E &
+      : \text{結晶のヤング率} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.48 E &: \text
+             {結晶のヤング率} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.49 \nu &
+        : \text{結晶のポアソン比} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.49 \nu &: \text
+               {結晶のポアソン比} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.50 E_{\text
+           {push}} &: \text{結晶を押す物質のヤング率} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.50 E_{\text{push}} &
+                    : \text{結晶を押す物質のヤング率} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.50 E_{\text{push}} &: \text
+                           {結晶を押す物質のヤング率} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.51 \nu_{\text
+             {push}} &: \text{結晶を押す物質のポアソン比}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.51 \nu_{\text{push}} &
+                      : \text{結晶を押す物質のポアソン比}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.51 \nu_{\text{push}} &: \text
+                             {結晶を押す物質のポアソン比}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{equation} on input line 43 ended by \end{aligned}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 \end{aligned}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no 加 (U+52A0) in font cmr10!
+Missing character: There is no え (U+3048) in font cmmi10!
+Missing character: There is no え (U+3048) in font cmmi10!
+Missing character: There is no る (U+308B) in font cmmi10!
+Missing character: There is no 力 (U+529B) in font cmr10!
+Missing character: There is no 結 (U+7D50) in font cmr10!
+Missing character: There is no 結 (U+7D50) in font cmr10!
+Missing character: There is no 晶 (U+6676) in font cmr10!
+Missing character: There is no を (U+3092) in font cmmi10!
+Missing character: There is no 押 (U+62BC) in font cmr10!
+Missing character: There is no す (U+3059) in font cmmi10!
+Missing character: There is no 物 (U+7269) in font cmr10!
+Missing character: There is no 物 (U+7269) in font cmr10!
+Missing character: There is no 質 (U+8CEA) in font cmr10!
+Missing character: There is no の (U+306E) in font cmmi10!
+Missing character: There is no 曲 (U+66F2) in font cmr10!
+Missing character: There is no 曲 (U+66F2) in font cmr10!
+Missing character: There is no 率 (U+7387) in font cmr10!
+Missing character: There is no 率 (U+7387) in font cmr10!
+Missing character: There is no 半 (U+534A) in font cmr10!
+Missing character: There is no 半 (U+534A) in font cmr10!
+Missing character: There is no 径 (U+5F84) in font cmr10!
+Missing character: There is no 結 (U+7D50) in font cmr10!
+Missing character: There is no 結 (U+7D50) in font cmr10!
+Missing character: There is no 晶 (U+6676) in font cmr10!
+Missing character: There is no の (U+306E) in font cmmi10!
+Missing character: There is no の (U+306E) in font cmmi10!
+Missing character: There is no ヤ (U+30E4) in font cmmi10!
+Missing character: There is no ヤ (U+30E4) in font cmmi10!
+Missing character: There is no ン (U+30F3) in font cmmi10!
+Missing character: There is no ン (U+30F3) in font cmmi10!
+Missing character: There is no グ (U+30B0) in font cmmi10!
+Missing character: There is no 率 (U+7387) in font cmr10!
+Missing character: There is no 結 (U+7D50) in font cmr10!
+Missing character: There is no 結 (U+7D50) in font cmr10!
+Missing character: There is no 晶 (U+6676) in font cmr10!
+Missing character: There is no の (U+306E) in font cmmi10!
+Missing character: There is no の (U+306E) in font cmmi10!
+Missing character: There is no ポ (U+30DD) in font cmmi10!
+Missing character: There is no ポ (U+30DD) in font cmmi10!
+Missing character: There is no ア (U+30A2) in font cmmi10!
+Missing character: There is no ア (U+30A2) in font cmmi10!
+Missing character: There is no ソ (U+30BD) in font cmmi10!
+Missing character: There is no ソ (U+30BD) in font cmmi10!
+Missing character: There is no ン (U+30F3) in font cmmi10!
+Missing character: There is no 比 (U+6BD4) in font cmr10!
+Missing character: There is no 結 (U+7D50) in font cmr10!
+Missing character: There is no 結 (U+7D50) in font cmr10!
+Missing character: There is no 晶 (U+6676) in font cmr10!
+Missing character: There is no を (U+3092) in font cmmi10!
+Missing character: There is no 押 (U+62BC) in font cmr10!
+Missing character: There is no す (U+3059) in font cmmi10!
+Missing character: There is no 物 (U+7269) in font cmr10!
+Missing character: There is no 物 (U+7269) in font cmr10!
+Missing character: There is no 質 (U+8CEA) in font cmr10!
+Missing character: There is no の (U+306E) in font cmmi10!
+Missing character: There is no の (U+306E) in font cmmi10!
+Missing character: There is no ヤ (U+30E4) in font cmmi10!
+Missing character: There is no ヤ (U+30E4) in font cmmi10!
+Missing character: There is no ン (U+30F3) in font cmmi10!
+Missing character: There is no ン (U+30F3) in font cmmi10!
+Missing character: There is no グ (U+30B0) in font cmmi10!
+Missing character: There is no 率 (U+7387) in font cmr10!
+Missing character: There is no 結 (U+7D50) in font cmr10!
+Missing character: There is no 結 (U+7D50) in font cmr10!
+Missing character: There is no 晶 (U+6676) in font cmr10!
+Missing character: There is no を (U+3092) in font cmmi10!
+Missing character: There is no 押 (U+62BC) in font cmr10!
+Missing character: There is no す (U+3059) in font cmmi10!
+Missing character: There is no 物 (U+7269) in font cmr10!
+Missing character: There is no 物 (U+7269) in font cmr10!
+Missing character: There is no 質 (U+8CEA) in font cmr10!
+Missing character: There is no の (U+306E) in font cmmi10!
+Missing character: There is no の (U+306E) in font cmmi10!
+Missing character: There is no ポ (U+30DD) in font cmmi10!
+Missing character: There is no ポ (U+30DD) in font cmmi10!
+Missing character: There is no ア (U+30A2) in font cmmi10!
+Missing character: There is no ア (U+30A2) in font cmmi10!
+Missing character: There is no ソ (U+30BD) in font cmmi10!
+Missing character: There is no ソ (U+30BD) in font cmmi10!
+Missing character: There is no ン (U+30F3) in font cmmi10!
+Missing character: There is no 比 (U+6BD4) in font cmr10!
+
+Overfull \hbox (136.2555pt too wide) detected at line 54
+[]
+ []
+
+
+! LaTeX Error: Environment align* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 \begin{align*}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.57 F_
+     0 &= 160~\text{N} && \text{外力} \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Misplaced alignment tab character &.
+l.57 F_0 &
+        = 160~\text{N} && \text{外力} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.57 F_0 &= 160~\text
+                   {N} && \text{外力} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.57 F_0 &= 160~\text{N} &
+                        & \text{外力} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.57 F_0 &= 160~\text{N} &&
+                          \text{外力} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.57 F_0 &= 160~\text{N} && \text
+                               {外力} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.58 R &
+      = 15.57 \times 10^{-3}~\text{m} && \text{曲率半径} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.58 R &= 15.57 \times 10^{-3}~\text
+                                  {m} && \text{曲率半径} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.58 R &= 15.57 \times 10^{-3}~\text{m} &
+                                       & \text{曲率半径} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.58 R &= 15.57 \times 10^{-3}~\text{m} &&
+                                         \text{曲率半径} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.58 R &= 15.57 \times 10^{-3}~\text{m} && \text
+                                              {曲率半径} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.59 E &
+      = 237 \times 10^{8}~\text{Pa} && \text{結晶のヤング率} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.59 E &= 237 \times 10^{8}~\text
+                               {Pa} && \text{結晶のヤング率} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.59 E &= 237 \times 10^{8}~\text{Pa} &
+                                     & \text{結晶のヤング率} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.59 E &= 237 \times 10^{8}~\text{Pa} &&
+                                       \text{結晶のヤング率} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.59 E &= 237 \times 10^{8}~\text{Pa} && \text
+                                            {結晶のヤング率} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.60 \nu &
+        = 0.445 && \text{結晶のポアソン比} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.60 \nu &= 0.445 &
+                 & \text{結晶のポアソン比} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.60 \nu &= 0.445 &&
+                   \text{結晶のポアソン比} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.60 \nu &= 0.445 && \text
+                        {結晶のポアソン比} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.61 E_{\text
+           {push}} &= 801 \times 10^{8}~\text{Pa} && \text{結晶を押す材...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.61 E_{\text{push}} &
+                    = 801 \times 10^{8}~\text{Pa} && \text{結晶を押す材...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.61 E_{\text{push}} &= 801 \times 10^{8}~\text
+                                             {Pa} && \text{結晶を押す材...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.61 ...text{push}} &= 801 \times 10^{8}~\text{Pa} &
+                                                  & \text{結晶を押す材...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.61 ...ext{push}} &= 801 \times 10^{8}~\text{Pa} &&
+                                                   \text{結晶を押す材料...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.61 ...sh}} &= 801 \times 10^{8}~\text{Pa} && \text
+                                                  {結晶を押す材料のヤ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.62 nu_{\text
+            {push}} &= 0.208 && \text{結晶を押す材料のポアソン比}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.62 nu_{\text{push}} &
+                     = 0.208 && \text{結晶を押す材料のポアソン比}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.62 nu_{\text{push}} &= 0.208 &
+                              & \text{結晶を押す材料のポアソン比}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.62 nu_{\text{push}} &= 0.208 &&
+                                \text{結晶を押す材料のポアソン比}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.62 nu_{\text{push}} &= 0.208 && \text
+                                     {結晶を押す材料のポアソン比}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{align*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 \end{align*}
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.63 \end{align*}
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no 外 (U+5916) in font cmr10!
+Missing character: There is no 外 (U+5916) in font cmr10!
+Missing character: There is no 力 (U+529B) in font cmr10!
+Missing character: There is no 曲 (U+66F2) in font cmr10!
+Missing character: There is no 曲 (U+66F2) in font cmr10!
+Missing character: There is no 率 (U+7387) in font cmr10!
+Missing character: There is no 率 (U+7387) in font cmr10!
+Missing character: There is no 半 (U+534A) in font cmr10!
+Missing character: There is no 半 (U+534A) in font cmr10!
+Missing character: There is no 径 (U+5F84) in font cmr10!
+Missing character: There is no 結 (U+7D50) in font cmr10!
+Missing character: There is no 結 (U+7D50) in font cmr10!
+Missing character: There is no 晶 (U+6676) in font cmr10!
+Missing character: There is no の (U+306E) in font cmmi10!
+Missing character: There is no の (U+306E) in font cmmi10!
+Missing character: There is no ヤ (U+30E4) in font cmmi10!
+Missing character: There is no ヤ (U+30E4) in font cmmi10!
+Missing character: There is no ン (U+30F3) in font cmmi10!
+Missing character: There is no ン (U+30F3) in font cmmi10!
+Missing character: There is no グ (U+30B0) in font cmmi10!
+Missing character: There is no 率 (U+7387) in font cmr10!
+Missing character: There is no 結 (U+7D50) in font cmr10!
+Missing character: There is no 結 (U+7D50) in font cmr10!
+Missing character: There is no 晶 (U+6676) in font cmr10!
+Missing character: There is no の (U+306E) in font cmmi10!
+Missing character: There is no の (U+306E) in font cmmi10!
+Missing character: There is no ポ (U+30DD) in font cmmi10!
+Missing character: There is no ポ (U+30DD) in font cmmi10!
+Missing character: There is no ア (U+30A2) in font cmmi10!
+Missing character: There is no ア (U+30A2) in font cmmi10!
+Missing character: There is no ソ (U+30BD) in font cmmi10!
+Missing character: There is no ソ (U+30BD) in font cmmi10!
+Missing character: There is no ン (U+30F3) in font cmmi10!
+Missing character: There is no 比 (U+6BD4) in font cmr10!
+Missing character: There is no 結 (U+7D50) in font cmr10!
+Missing character: There is no 結 (U+7D50) in font cmr10!
+Missing character: There is no 晶 (U+6676) in font cmr10!
+Missing character: There is no を (U+3092) in font cmmi10!
+Missing character: There is no 押 (U+62BC) in font cmr10!
+Missing character: There is no す (U+3059) in font cmmi10!
+Missing character: There is no 材 (U+6750) in font cmr10!
+Missing character: There is no 材 (U+6750) in font cmr10!
+Missing character: There is no 料 (U+6599) in font cmr10!
+Missing character: There is no の (U+306E) in font cmmi10!
+Missing character: There is no の (U+306E) in font cmmi10!
+Missing character: There is no ヤ (U+30E4) in font cmmi10!
+Missing character: There is no ヤ (U+30E4) in font cmmi10!
+Missing character: There is no ン (U+30F3) in font cmmi10!
+Missing character: There is no ン (U+30F3) in font cmmi10!
+Missing character: There is no グ (U+30B0) in font cmmi10!
+Missing character: There is no 率 (U+7387) in font cmr10!
+Missing character: There is no 結 (U+7D50) in font cmr10!
+Missing character: There is no 結 (U+7D50) in font cmr10!
+Missing character: There is no 晶 (U+6676) in font cmr10!
+Missing character: There is no を (U+3092) in font cmmi10!
+Missing character: There is no 押 (U+62BC) in font cmr10!
+Missing character: There is no す (U+3059) in font cmmi10!
+Missing character: There is no 材 (U+6750) in font cmr10!
+Missing character: There is no 材 (U+6750) in font cmr10!
+Missing character: There is no 料 (U+6599) in font cmr10!
+Missing character: There is no の (U+306E) in font cmmi10!
+Missing character: There is no の (U+306E) in font cmmi10!
+Missing character: There is no ポ (U+30DD) in font cmmi10!
+Missing character: There is no ポ (U+30DD) in font cmmi10!
+Missing character: There is no ア (U+30A2) in font cmmi10!
+Missing character: There is no ア (U+30A2) in font cmmi10!
+Missing character: There is no ソ (U+30BD) in font cmmi10!
+Missing character: There is no ソ (U+30BD) in font cmmi10!
+Missing character: There is no ン (U+30F3) in font cmmi10!
+Missing character: There is no 比 (U+6BD4) in font cmr10!
+
+Overfull \hbox (15.04164pt too wide) in paragraph at lines 54--64
+F$[][] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (24.12502pt too wide) in paragraph at lines 54--64
+\OT1/cmr/m/n/10 160\OML/cmm/m/it/10 N[][] 
+ []
+
+
+Overfull \hbox (18.22566pt too wide) in paragraph at lines 54--64
+\OML/cmm/m/it/10 R \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (30.55565pt too wide) in paragraph at lines 54--64
+\OT1/cmr/m/n/10 15\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 57 \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (29.51631pt too wide) in paragraph at lines 54--64
+\OT1/cmr/m/n/10 10[]\OML/cmm/m/it/10 m[][] 
+ []
+
+
+Overfull \hbox (18.51382pt too wide) in paragraph at lines 54--64
+\OML/cmm/m/it/10 E \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (22.77785pt too wide) in paragraph at lines 54--64
+\OT1/cmr/m/n/10 237 \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (27.58109pt too wide) in paragraph at lines 54--64
+\OT1/cmr/m/n/10 10[][][][] 
+ []
+
+
+Overfull \hbox (16.1319pt too wide) in paragraph at lines 54--64
+\OML/cmm/m/it/10  \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (22.77785pt too wide) in paragraph at lines 54--64
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 445[][] 
+ []
+
+
+Overfull \hbox (35.74393pt too wide) in paragraph at lines 54--64
+\OML/cmm/m/it/10 E[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (22.77785pt too wide) in paragraph at lines 54--64
+\OT1/cmr/m/n/10 801 \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (27.58109pt too wide) in paragraph at lines 54--64
+\OT1/cmr/m/n/10 10[][][][] 
+ []
+
+
+Overfull \hbox (40.08891pt too wide) in paragraph at lines 54--64
+\OML/cmm/m/it/10 nu[] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (22.77785pt too wide) in paragraph at lines 54--64
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 208[]$ 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 65--65
+[] 
+ []
+
+! Undefined control sequence.
+l.66 ...る力。外力の大きさは \( 160~\text
+                                                  {N} \) です。
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (10.91669pt too wide) in paragraph at lines 66--67
+\OML/cmm/m/it/10 F[]$\nullfont :
+ []
+
+
+Overfull \hbox (24.12502pt too wide) in paragraph at lines 66--67
+\OT1/cmr/m/n/10 160\OML/cmm/m/it/10 N$
+ []
+
+! Undefined control sequence.
+l.67 ...この値は \( 15.57 \times 10^{-3}~\text
+                                                  {m} \) です。
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (7.67015pt too wide) in paragraph at lines 67--68
+\OML/cmm/m/it/10 R$\nullfont :
+ []
+
+
+Overfull \hbox (30.55565pt too wide) in paragraph at lines 67--68
+\OT1/cmr/m/n/10 15\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 57 \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (29.51631pt too wide) in paragraph at lines 67--68
+\OT1/cmr/m/n/10 10[]\OML/cmm/m/it/10 m$
+ []
+
+! Undefined control sequence.
+l.68 ...。この値は \( 237 \times 10^{8}~\text
+                                                  {Pa} \) です。
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (7.95831pt too wide) in paragraph at lines 68--69
+\OML/cmm/m/it/10 E$\nullfont :
+ []
+
+
+Overfull \hbox (22.77785pt too wide) in paragraph at lines 68--69
+\OT1/cmr/m/n/10 237 \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (27.58109pt too wide) in paragraph at lines 68--69
+\OT1/cmr/m/n/10 10[][]$
+ []
+
+
+Overfull \hbox (5.57639pt too wide) in paragraph at lines 69--70
+\OML/cmm/m/it/10 $\nullfont :
+ []
+
+
+Overfull \hbox (22.77785pt too wide) in paragraph at lines 69--70
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 445$
+ []
+
+! Undefined control sequence.
+l.70     \item \( E_{\text
+                        {push}} \): 結晶を押す物質のヤング率。こ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.70 ...。この値は \( 801 \times 10^{8}~\text
+                                                  {Pa} \) です。
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (25.18842pt too wide) in paragraph at lines 70--71
+\OML/cmm/m/it/10 E[]$\nullfont :
+ []
+
+
+Overfull \hbox (22.77785pt too wide) in paragraph at lines 70--71
+\OT1/cmr/m/n/10 801 \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (27.58109pt too wide) in paragraph at lines 70--71
+\OT1/cmr/m/n/10 10[][]$
+ []
+
+! Undefined control sequence.
+l.71     \item \( \nu_{\text
+                          {push}} \): 結晶を押す物質のポアソン比...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (22.74629pt too wide) in paragraph at lines 71--72
+\OML/cmm/m/it/10 []$\nullfont :
+ []
+
+
+Overfull \hbox (22.77785pt too wide) in paragraph at lines 71--72
+\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 208$
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 74--75
+[]応力テンソルから歪テンソルからの変換は弾性コンプライアンス定数を通して関連づけられる。 
+ []
+
+! Misplaced alignment tab character &.
+l.85     S_{11} &
+                S_{12} & S_{12} & 0 & 0 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.85     S_{11} & S_{12} &
+                         S_{12} & 0 & 0 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.85     S_{11} & S_{12} & S_{12} &
+                                  0 & 0 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.85     S_{11} & S_{12} & S_{12} & 0 &
+                                      0 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.85     S_{11} & S_{12} & S_{12} & 0 & 0 &
+                                          0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.86     S_{12} &
+                S_{11} & S_{12} & 0 & 0 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.86     S_{12} & S_{11} &
+                         S_{12} & 0 & 0 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.86     S_{12} & S_{11} & S_{12} &
+                                  0 & 0 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.86     S_{12} & S_{11} & S_{12} & 0 &
+                                      0 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.86     S_{12} & S_{11} & S_{12} & 0 & 0 &
+                                          0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.87     S_{12} &
+                S_{12} & S_{11} & 0 & 0 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.87     S_{12} & S_{12} &
+                         S_{11} & 0 & 0 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.87     S_{12} & S_{12} & S_{11} &
+                                  0 & 0 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.87     S_{12} & S_{12} & S_{11} & 0 &
+                                      0 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.87     S_{12} & S_{12} & S_{11} & 0 & 0 &
+                                          0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.88     0 &
+           0 & 0 & \frac{S_{44}}{2} & 0 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.88     0 & 0 &
+               0 & \frac{S_{44}}{2} & 0 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.88     0 & 0 & 0 &
+                   \frac{S_{44}}{2} & 0 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.88     0 & 0 & 0 & \frac{S_{44}}{2} &
+                                      0 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.88     0 & 0 & 0 & \frac{S_{44}}{2} & 0 &
+                                          0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.89     0 &
+           0 & 0 & 0 & \frac{S_{44}}{2} & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.89     0 & 0 &
+               0 & 0 & \frac{S_{44}}{2} & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.89     0 & 0 & 0 &
+                   0 & \frac{S_{44}}{2} & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.89     0 & 0 & 0 & 0 &
+                       \frac{S_{44}}{2} & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.89     0 & 0 & 0 & 0 & \frac{S_{44}}{2} &
+                                          0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.90     0 &
+           0 & 0 & 0 & 0 & \frac{S_{44}}{2}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.90     0 & 0 &
+               0 & 0 & 0 & \frac{S_{44}}{2}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.90     0 & 0 & 0 &
+                   0 & 0 & \frac{S_{44}}{2}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.90     0 & 0 & 0 & 0 &
+                       0 & \frac{S_{44}}{2}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.90     0 & 0 & 0 & 0 & 0 &
+                           \frac{S_{44}}{2}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (524.95105pt too wide) detected at line 100
+[][] [] \OML/cmm/m/it/10 [][] [][] [][] [][] [] \OT1/cmr/m/n/10 = [][] \OML/cmm/m/it/10 S[]S[]\OT1/cmr/m/n/10 000[] \OML/cmm/m/it/10 S[]S[]S[]\OT1/cmr/m/n/10 000[] \OML/cmm/m/it/10 S[]S[]S[]\OT1/cmr/m/n/10 000[] 000[]00[] 0000[]0[] 00000[] [][] [] \OML/cmm/m/it/10 [][] [][] [][] [][] []
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 102--103
+[]以下に歪み（Strain）計算に使用する材料定数を示します。 
+ []
+
+! Undefined control sequence.
+l.104 ...\( S_{11} \): \( 4.17 \times 10^{-11}~\text
+                                                  {Pa}^{-1} \)
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (14.6042pt too wide) in paragraph at lines 104--105
+\OML/cmm/m/it/10 S[]$\nullfont :
+ []
+
+
+Overfull \hbox (25.55563pt too wide) in paragraph at lines 104--105
+\OT1/cmr/m/n/10 4\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 17 \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (48.55338pt too wide) in paragraph at lines 104--105
+\OT1/cmr/m/n/10 10[][][]$ 
+ []
+
+! Undefined control sequence.
+l.105 ...( S_{12} \): \( -1.94 \times 10^{-11}~\text
+                                                  {Pa}^{-1} \)
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (14.6042pt too wide) in paragraph at lines 105--106
+\OML/cmm/m/it/10 S[]$\nullfont :
+ []
+
+
+Overfull \hbox (33.33344pt too wide) in paragraph at lines 105--106
+\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 94 \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (48.55338pt too wide) in paragraph at lines 105--106
+\OT1/cmr/m/n/10 10[][][]$ 
+ []
+
+! Undefined control sequence.
+l.106 ...\( S_{44} \): \( 8.26 \times 10^{-11}~\text
+                                                  {Pa}^{-1} \)
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (14.6042pt too wide) in paragraph at lines 106--107
+\OML/cmm/m/it/10 S[]$\nullfont :
+ []
+
+
+Overfull \hbox (25.55563pt too wide) in paragraph at lines 106--107
+\OT1/cmr/m/n/10 8\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 26 \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (48.55338pt too wide) in paragraph at lines 106--107
+\OT1/cmr/m/n/10 10[][][]$ 
+ []
+
+! Undefined control sequence.
+l.109 ...す。摂動ハミルトニアン $H_{\text
+                                                  {deformation}}$ は、歪テ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 109--110
+[]材料に歪みが加わることでハミルトニアンが変化します。歪みの大きさが小さい場合、この変化を摂動として扱うことが可能です。摂動ハミルトニアン
+ []
+
+
+Overfull \hbox (55.50348pt too wide) in paragraph at lines 109--110
+\OML/cmm/m/it/10 H[]$
+ []
+
+
+! LaTeX Error: Environment align undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111 \begin{align}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.112 H_
+      {\text{deformation}} &= a \, \operatorname{Tr}\, \epsilon
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Undefined control sequence.
+l.112 H_{\text
+            {deformation}} &= a \, \operatorname{Tr}\, \epsilon
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.112 H_{\text{deformation}} &
+                            = a \, \operatorname{Tr}\, \epsilon
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.112 H_{\text{deformation}} &= a \, \operatorname
+                                                {Tr}\, \epsilon
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+<recently read> &
+ 
+l.116 &
+     \quad - \sqrt{3}\,d \left[ (L_z L_y + L_y L_z)\epsilon_{xy}
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \begin{document} ended by \end{align}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.119 \end{align}
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+$
+l.119 \end{align}
+               
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (77.74649pt too wide) in paragraph at lines 112--120
+[]H$[][] \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (32.478pt too wide) in paragraph at lines 112--120
+\OML/cmm/m/it/10 a []  \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (242.0438pt too wide) in paragraph at lines 112--120
+\OT1/cmr/m/n/10 3\OML/cmm/m/it/10 b [] [] 
+ []
+
+
+Overfull \hbox (7.7778pt too wide) in paragraph at lines 112--120
+\OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (291.33713pt too wide) in paragraph at lines 112--120
+[] \OML/cmm/m/it/10 d []$ 
+ []
+
+! Undefined control sequence.
+<argument> E_{\text 
+         {so}}
+l.123 ...こで、$\eta = \frac{4|a|}{E_{\text{so}}}
+                                                  $ と定義します）
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (25.28589pt too wide) in paragraph at lines 121--124
+[]ここで、$\OML/cmm/m/it/10 a$
+ []
+
+
+Overfull \hbox (4.29166pt too wide) in paragraph at lines 121--124
+は等方的なデフォーメーションポテンシャル、$\OML/cmm/m/it/10 b$
+ []
+
+
+Overfull \hbox (5.20486pt too wide) in paragraph at lines 121--124
+\OML/cmm/m/it/10 d$
+ []
+
+
+Overfull \hbox (6.80557pt too wide) in paragraph at lines 121--124
+はそれぞれ剪断変形に関連するポテンシャル、$\OML/cmm/m/it/10 L$
+ []
+
+
+Overfull \hbox (11.8403pt too wide) in paragraph at lines 121--124
+\OML/cmm/m/it/10 L[]$\nullfont ,
+ []
+
+
+Overfull \hbox (11.61232pt too wide) in paragraph at lines 121--124
+\OML/cmm/m/it/10 L[]$\nullfont ,
+ []
+
+
+Overfull \hbox (11.41325pt too wide) in paragraph at lines 121--124
+\OML/cmm/m/it/10 L[]$
+ []
+
+
+Overfull \hbox (15.8796pt too wide) in paragraph at lines 121--124
+三重に縮退したオルソ励起子に対する一次摂動ハミルトニアンは以下のように記述されます。固有関数を解析することで、縮退が解消されたオルソ励起子のエネルギー準位を導出できます。（ここで、$\OML/cmm/m/it/10  \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (15.63548pt too wide) in paragraph at lines 121--124
+[]$
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 125--125
+[] 
+ []
+
+! Undefined control sequence.
+l.126 H_1^{\text
+              {ortho}} = a \, \text{Tr}\,e \begin{pmatrix}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.126 H_1^{\text{ortho}} = a \, \text
+                                   {Tr}\,e \begin{pmatrix}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.127 1 &
+        0 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.127 1 & 0 &
+            0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.128 0 &
+        1 & 0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.128 0 & 1 &
+            0 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.129 0 &
+        0 & 1 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.129 0 & 0 &
+            1 \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.131 b(2e_{xx} - e_{yy} - e_{zz}) &
+                                   \sqrt{3d}\,e_{xy} & \sqrt{3d}\,e_{zx} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.131 ...x} - e_{yy} - e_{zz}) & \sqrt{3d}\,e_{xy} &
+                                                   \sqrt{3d}\,e_{zx} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.132 \sqrt{3d}\,e_{xy} &
+                        b(2e_{yy} - e_{xx} - e_{zz}) & \sqrt{3d}\,e_{yz} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.132 ...d}\,e_{xy} & b(2e_{yy} - e_{xx} - e_{zz}) &
+                                                   \sqrt{3d}\,e_{yz} \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.133 \sqrt{3d}\,e_{zx} &
+                        \sqrt{3d}\,e_{yz} & b(2e_{zz} - e_{xx} - e_{yy}) \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.133 \sqrt{3d}\,e_{zx} & \sqrt{3d}\,e_{yz} &
+                                            b(2e_{zz} - e_{xx} - e_{yy}) \\
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (580.7115pt too wide) detected at line 135
+\OML/cmm/m/it/10 H[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 a [] e [] \OT1/cmr/m/n/10 00[] 010[] 001[]  + \OML/cmm/m/it/10  [] \OT1/cmr/m/n/10 (2\OML/cmm/m/it/10 e[] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 e[] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 e[]\OT1/cmr/m/n/10 )[] \OML/cmm/m/it/10 e[][] e[][] [] e[]b\OT1/cmr/m/n/10 (2\OML/cmm/m/it/10 e[] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 e[] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 e[]\OT1/cmr/m/n/10 )[] \OML/cmm/m/it/10 e[][] [] e[][] e[]b\OT1/cmr/m/n/10 (2\OML/cmm/m/it/10 e[] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 e[] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 e[]\OT1/cmr/m/n/10 )[] 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 137--138
+[]一方、パラ励起子に対する一次摂動によるエネルギー変化は以下のように表されます。 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 139--139
+[] 
+ []
+
+! Undefined control sequence.
+l.140 \Delta E_1^{\text
+                     {para}} = a \, \text{Tr}\,e
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.140 \Delta E_1^{\text{para}} = a \, \text
+                                         {Tr}\,e
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (72.14821pt too wide) detected at line 141
+\OT1/cmr/m/n/10 \OML/cmm/m/it/10 E[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 a [] e
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 143--144
+[]さらに、二次摂動によるエネルギー変動
+ []
+
+
+Overfull \hbox (20.20143pt too wide) in paragraph at lines 143--144
+\OT1/cmr/m/n/10 \OML/cmm/m/it/10 E[]$
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 145--145
+[] 
+ []
+
+! Undefined control sequence.
+<argument> E_{\text 
+         {so}}
+l.146 \Delta E_2 = \frac{(3b)^2}{E_{\text{so}}}
+                                              \left\{(e_{xx} - e_{yy})^2 + (...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> E_{\text 
+         {so}}
+l.146 ...^2 \right\} + \frac{2(3d)^2}{E_{\text{so}}}
+                                                   \left(e_{xy}^2 + e_{yz}^2...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (365.75165pt too wide) detected at line 147
+\OT1/cmr/m/n/10 \OML/cmm/m/it/10 E[] \OT1/cmr/m/n/10 = [] [] + [] []
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 149--150
+[]デフォーメーションポテンシャルの具体的な値は以下の通りとします。 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 151--151
+[] 
+ []
+
+
+! LaTeX Error: Environment aligned undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.153 \begin{aligned}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced alignment tab character &.
+l.154 a &
+       = -1.18 \, \text{eV}, \quad b = -0.40 \, \text{eV}, \quad d = 0.31 \,...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.154 a &= -1.18 \, \text
+                       {eV}, \quad b = -0.40 \, \text{eV}, \quad d = 0.31 \,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.154 ...1.18 \, \text{eV}, \quad b = -0.40 \, \text
+                                                  {eV}, \quad d = 0.31 \, \t...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.154 ...-0.40 \, \text{eV}, \quad d = 0.31 \, \text
+                                                  {eV} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Misplaced alignment tab character &.
+l.155 J &
+       = 23.8 \, \text{eV}, \quad E_{\text{so}} = 131 \, \text{meV}, \quad \...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Undefined control sequence.
+l.155 J &= 23.8 \, \text
+                      {eV}, \quad E_{\text{so}} = 131 \, \text{meV}, \quad \...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.155 J &= 23.8 \, \text{eV}, \quad E_{\text
+                                          {so}} = 131 \, \text{meV}, \quad \...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.155 ...ext{eV}, \quad E_{\text{so}} = 131 \, \text
+                                                  {meV}, \quad \eta = \frac{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> E_{\text 
+         {so}}
+l.155 ...V}, \quad \eta = \frac{4|a|}{E_{\text{so}}}
+                                                   = 0.727 \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{equation} on input line 151 ended by \end{aligned}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.156 \end{aligned}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (385.3858pt too wide) detected at line 158
+[]
+ []
+
+! Undefined control sequence.
+l.160 ...エネルギー変動は $\Delta E_1^{\text
+                                                  {para/ortho}} - \Delta E_2...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 160--161
+[]これらの結果から、1s励起子（パラ/オルソ）のエネルギー変動は
+ []
+
+
+Overfull \hbox (64.91788pt too wide) in paragraph at lines 160--161
+\OT1/cmr/m/n/10 \OML/cmm/m/it/10 E[] \OMS/cmsy/m/n/10 ^^@
+ []
+
+
+Overfull \hbox (20.20143pt too wide) in paragraph at lines 160--161
+\OT1/cmr/m/n/10 \OML/cmm/m/it/10 E[]$
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 162--163
+[]Trauernichit1986によると[100]方向 
+ []
+
+! Undefined control sequence.
+l.165 \subsection
+               {励起光の実験装置}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.166 \subsubsection
+                  *{再生増幅機}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.167 \subsubsection
+                  *{再生増幅機}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 165--171
+[]励起光の実験装置
+ []
+
+! Undefined control sequence.
+l.172 \subsubsection
+                  *{光パラメトリック増幅器(OPA)}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 172--174
+[]*光パラメトリック増幅器(OPA)
+ []
+
+! Undefined control sequence.
+l.175 \subsubsection
+                  *{CCDカメラ}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.176 ...は1ピクセルあたり$16 \, \mu \text
+                                                  {m} \times 16 \, \mu \text...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.176 ...$16 \, \mu \text{m} \times 16 \, \mu \text
+                                                  {m}$の大きさのCCD素子...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.179 ...は1ピクセルあたり$13 \, \mu \text
+                                                  {m} \times 13 \, \mu \text...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.179 ...$13 \, \mu \text{m} \times 13 \, \mu \text
+                                                  {m}$の大きさのCCDが$...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 175--181
+[]*CCDカメラ
+ []
+
+
+Overfull \hbox (34.25008pt too wide) in paragraph at lines 175--181
+EMCCDカメラには1ピクセルあたり$\OT1/cmr/m/n/10 16 \OML/cmm/m/it/10 m \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (34.25008pt too wide) in paragraph at lines 175--181
+\OT1/cmr/m/n/10 16 \OML/cmm/m/it/10 m$\nullfont の大きさのCCD素子が1600$\OMS/cmsy/m/n/10 $\nullfont 200で並んでいる。
+ []
+
+
+Overfull \hbox (34.25008pt too wide) in paragraph at lines 175--181
+このICCDカメラでは1ピクセルあたり$\OT1/cmr/m/n/10 13 \OML/cmm/m/it/10 m \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (54.25014pt too wide) in paragraph at lines 175--181
+\OT1/cmr/m/n/10 13 \OML/cmm/m/it/10 m$\nullfont の大きさのCCDが$\OT1/cmr/m/n/10 1024 \OMS/cmsy/m/n/10 
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 175--181
+\OT1/cmr/m/n/10 1024$\nullfont 並んでいる。
+ []
+
+! Undefined control sequence.
+l.182 \subsubsection
+                  *{分光器}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 182--187
+[]*分光器
+ []
+
+
+Overfull \hbox (186.66724pt too wide) in paragraph at lines 182--187
+参考値としては$\OT1/cmr/m/n/10 609\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 616[]$\nullfont 、$\OT1/cmr/m/n/10 614\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 306[]$\nullfont 、$\OT1/cmr/m/n/10 609\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 616[]$\nullfont 、$\OT1/cmr/m/n/10 616\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 359[]$\nullfont のネオンの輝線を用いた。 
+ []
+
+! Undefined control sequence.
+l.188 \subsubsection
+                  *{ICCDカメラ}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 188--189
+[]*ICCDカメラ 
+ []
+
+! Undefined control sequence.
+l.190 \subsection
+               {全体の実験装置の概略}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 190--192
+[]全体の実験装置の概略
+ []
+
+! Undefined control sequence.
+l.193 \subsection
+               {エネルギーシフトの計算方法}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+! Emergency stop.
+<*> ...ktop/Cloud LaTeX へようこそ/chapter4.tex"
+                                                  
+*** (job aborted, no legal \end found)
+
+
+
+Here is how much of LuaTeX's memory you used:
+ 47 strings out of 476447
+ 100000,1977958 words of node,token memory allocated 38938 words of node memory still in use:
+   590 hlist, 33 vlist, 18 rule, 4 disc, 39 local_par, 1 dir, 91 math, 813 glue, 163 kern, 226 penalty, 3266 glyph, 485 attribute, 39 glue_spec, 485 attribute_list, 1 temp nodes
+   avail lists: 3:87,4:13,5:2,8:134,10:12
+ 22260 multiletter control sequences out of 65536+600000
+ 25 fonts using 1345055 bytes
+ 19i,10n,22p,445b,115s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
